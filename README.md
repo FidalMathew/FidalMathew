@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FidalMathew
 - 👀 I’m interested in ...web development
-- 🌱 I’m currently practising my javascript
+- 🌱 I’m currently practising Reactjs and learning data structures and algorithms in C++
 - 💞️ I’m looking to collaborate on ...building websites with html,css and javascript
 - 📫 How to reach me ...fidal15perfect@gmail.com  
 
