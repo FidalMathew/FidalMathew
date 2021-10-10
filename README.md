@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @FidalMathew
-- 👀 I’m interested in ...web development
-- 🌱 I’m currently practising Reactjs and learning data structures and algorithms in C++
-- 💞️ I’m looking to collaborate on ...building websites with html,css and javascript
-- 📫 How to reach me ...fidal15perfect@gmail.com  
-
-
 
 # Hi there,i'm Fidal
 
@@ -29,7 +22,6 @@
 
 ### Connect with me 📝
 
-[<img align="left" alt="bilgehangecici | Youtube" height="30px" src="https://image.flaticon.com/icons/png/512/1384/1384060.png" />][Youtube]
 [<img align="left" alt="bilgehangecici | LinkedIn" height="30px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>][linkedin]
 [<img align="left" alt="bilgehangecici | Instagram" height="30px" src="https://image.flaticon.com/icons/svg/725/725278.svg" />][instagram]
 
