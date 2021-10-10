@@ -19,7 +19,7 @@
 <img align="center" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=FidalMathew&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
 
 <br />
-<br />
+
 
 
 ### Languages and Tools 🛠 
