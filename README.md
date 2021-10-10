@@ -5,8 +5,8 @@
 ## I'm a Computer Science and Engineering Student  
 
 - 👨‍💻 I’m doing my B.Tech from Vellore Institute of Technology,Chennai.
-- 📚 I love web development and i'm exploring open source and backend development
-- 💞️ I’m looking to collaborate on.. participating in hackathons and making some great web apps
+- 📚 I love doing web development and i'm exploring open source and backend development
+- 💞️ I’m would love to participate in hackathons and make some great web apps
 - 📫 How to reach me ...fidal15perfect@gmail.com  
 
 
@@ -16,15 +16,7 @@
 
 <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=FidalMathew&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
 
-### Connect with me 📝
 
-[<img align="left" alt="bilgehangecici | LinkedIn" height="30px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>][linkedin]
-[<img align="left" alt="bilgehangecici | Instagram" height="30px" src="https://image.flaticon.com/icons/svg/725/725278.svg" />][instagram]
-
-
-<br />
-
----
 
 ### Languages and Tools 🛠 
 
