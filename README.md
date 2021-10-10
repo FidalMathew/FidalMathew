@@ -11,11 +11,15 @@
 
 
 ---
+<br />
+<br />
 
 
 
-<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=FidalMathew&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
+<img align="center" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=FidalMathew&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
 
+<br />
+<br />
 
 
 ### Languages and Tools 🛠 
@@ -32,6 +36,7 @@
 ![React](https://img.shields.io/badge/-React-%23E44D27?style=flat-square&logo=react&logoColor=ffffff)
 
 <br/>
+<br />
 
 
 ---
