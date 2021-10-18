@@ -1,5 +1,5 @@
 
-# Hi there,i'm Fidal
+# Hi there,I'm Fidal
 
 
 ## I'm a Computer Science and Engineering Student  
