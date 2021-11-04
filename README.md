@@ -1,6 +1,7 @@
 
 # Hi there,I'm Fidal
 
+<img align="center" src="/img/banner.gif"/>
 
 ## I'm a Computer Science and Engineering Student  
 
@@ -11,16 +12,6 @@
 
 
 ---
-<br />
-<br />
-
-
-
-<img align="center" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=FidalMathew&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
-
-<br />
-
-
 
 ### Languages and Tools 🛠 
 
@@ -34,6 +25,9 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Mongodb](http://img.shields.io/badge/-Mongodb-007ACC?style=flat-square&logo=mongodb&logoColor=ffffff)
 ![React](https://img.shields.io/badge/-React-%23E44D27?style=flat-square&logo=react&logoColor=ffffff)
+![Nodejs](https://img.shields.io/badge/-Nodejs-%23E44D27?style=flat-square&logo=nodejs&logoColor=ffffff)
+![Figma](https://img.shields.io/badge/-React-%23E44D27?style=flat-square&logo=nodejs&logoColor=ffffff)
+
 
 <br/>
 <br />
@@ -43,21 +37,20 @@
 
 <br/>
 
-  <h2 align="center"> Github Statistics 📈 </h2>
-  
-  <div align="center"> 
-     <a href="">
-      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=FidalMathew&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
-    </a>
-    <a href="">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FidalMathew&theme=react&line_height=40&hide=css"/>
-    </a>
-</div
+### ⚙️ &nbsp;GitHub Analytics 
+<!-- <p align="center"> 
+<img src="https://komarev.com/ghpvc/?username=abhishekchauhan15&label=Views&color=blue&style=plastic" alt="chait04" />
+ </p> -->
+
+<p align="center">
+<a href="https://github.com/FidalMathew">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=FidalMathew&show_icons=true&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=FidalMathew&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 <br/>
-<br />
 
----
   [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=FidalMathew&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
