@@ -44,8 +44,8 @@
 
 <p align="center">
 <a href="https://github.com/FidalMathew">
-  <img height="180em" width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=FidalMathew&show_icons=true&theme=algolia"/>
-  <img height="180em" width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=FidalMathew&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=FidalMathew&show_icons=true&theme=algolia"/>
+  <img height="180em" width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=FidalMathew&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
