@@ -37,8 +37,8 @@
 
 <br/>
 
-### ⚙️ &nbsp;GitHub Analytics 
-<!-- <p align="center"> 
+### ⚙️ &nbsp;GitHub Analytics
+<!-- <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=abhishekchauhan15&label=Views&color=blue&style=plastic" alt="chait04" />
  </p> -->
 
@@ -48,8 +48,6 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=FidalMathew&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-
-<br/>
 
   [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=FidalMathew&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
