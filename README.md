@@ -1,5 +1,5 @@
 
-# Hi there,I'm Fidal
+# Hi there,I'm Fidal 👋
 
 <img align="center" src="/img/banner.gif"/>
 
@@ -13,29 +13,43 @@
 
 ---
 
-### Languages and Tools 🛠 
+### Let's Connect 🤝
 
-
-![C++](http://img.shields.io/badge/-C++-A8B9CC?style=flat-square&logo=c++&logoColor=ffffff)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Mongodb](http://img.shields.io/badge/-Mongodb-007ACC?style=flat-square&logo=mongodb&logoColor=ffffff)
-![React](https://img.shields.io/badge/-React-%23E44D27?style=flat-square&logo=react&logoColor=ffffff)
-![Nodejs](https://img.shields.io/badge/-Nodejs-%23E44D27?style=flat-square&logo=nodejs&logoColor=ffffff)
-![Figma](https://img.shields.io/badge/-React-%23E44D27?style=flat-square&logo=nodejs&logoColor=ffffff)
-
-
-<br/>
-<br />
+<a href="https://twitter.com/fidalmathew10"><img src="https://img.icons8.com/color/48/000000/twitter.png"/></a>
+<a href="https://www.linkedin.com/in/fidal-mathew-82aba7200/" ><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
+<a href="https://github.com/FidalMathew"><img src="https://img.icons8.com/material-outlined/48/000000/github.png"/></a>
 
 
 ---
 
+### Languages and Tools 🛠 
+
+<a href="https://github.com/FidalMathew">
+ 
+<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
+<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
+<img src="https://img.icons8.com/color/48/000000/css3.png"/>
+ <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
+<img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
+<img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
+<img src="https://img.icons8.com/ultraviolet/40/000000/react--v1.png"/>
+<img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
+
+ <br/> 
+ 
+<img src="https://img.icons8.com/color/48/000000/git.png"/>
+<img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
+<img src="https://img.icons8.com/color/48/000000/figma--v1.png"/>
+ <img src="https://img.icons8.com/color/48/000000/adobe-photoshop--v1.png"/>
+</a>
+
 <br/>
+
+---
+
+
+
+
 
 ### ⚙️ &nbsp;GitHub Analytics
 <!-- <p align="left"> 
