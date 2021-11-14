@@ -1,5 +1,5 @@
 
-# Hi there,I'm Fidal 👋
+# Hi there, I'm Fidal 👋
 
 <img align="center" src="/img/banner.gif"/>
 
