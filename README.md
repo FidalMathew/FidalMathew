@@ -18,7 +18,7 @@
 <a href="https://twitter.com/fidalmathew10"><img src="https://img.icons8.com/color/48/000000/twitter.png"/></a>
 <a href="https://www.linkedin.com/in/fidal-mathew-82aba7200/" ><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
 <a href="https://github.com/FidalMathew"><img src="https://img.icons8.com/material-outlined/48/000000/github.png"/></a>
-
+<a href="https://dev.to/fidalmathew"><img src="https://img.icons8.com/windows/64/000000/dev.png"/></a>
 
 ---
 
