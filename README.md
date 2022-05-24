@@ -5,7 +5,7 @@
 
 ## I'm a Computer Science and Engineering Student  
 
-- 📚 I’m doing my B.Tech from Vellore Institute of Technology,Chennai.
+- 📚 I’m doing my B.Tech from Vellore Institute of Technology, Chennai.
 - 💻 I love doing web development and I'm learning web3.
 - 💞️ I would love to participate in hackathons and make some great web apps.
 - 📫 How to reach me ...fidal15perfect@gmail.com.  
